@@ -1,0 +1,14 @@
+h1 {color:red;
+
+
+}
+h2{color: blue;}
+
+img { 
+    border: 10px solid lime;
+}
+body{
+    background-color: coral;
+background-image:url(../img/jo-bonten-i-can-put-my-hand-through-it.gif) ;
+background-size: 100px;
+}
